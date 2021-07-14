@@ -11,6 +11,7 @@ My name is Daniel Kogut, and I'm from Brazil 🇧🇷.
 🌎 Since I was young I took English courses and improved it by living 1 year in Vancouver, Canada 🇨🇦 studying business English.
 
 🌱 12+ years of software development experience with expertise in Web development and digital technologies including HTML 5, CSS 3, CSS Preprocessing (SASS), Vanilla JavaScript, JS frameworks ( JQuery, VueJS ), Ajax, JSON and XML, Git version control, npm package control, WordPress, PHP and Laravel, MVC Design Pattern, Integrations WebServices (RestAPIs), Docker, NodeJS, MySQL and AWS. Experience working in Agile (Scrum / Kanban) development cycles, Figma prototyping, Photoshop and Illustrator.
+
 ---
 📫 You can reach me emailing me at [danieltugok@gmail.com](mailto:danieltugok@gmail.com)
 
