@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Daniel Kogut, and I'm from Brazil (brazil).
+My name is Daniel Kogut, and I'm from Brazil (🇧🇷).
 Bachelor Degree in Industrial Design and a Graduate Degree in Marketing.
 I Started working in the IT world as UX/UI Design and quickly moved to Frontend Developer.
 I consider myself a professional who knows how to work in multidisciplinary teams and strong communication skills. Since I was young I took English courses and improved it by living 1 year in Vancouver, Canada studying business English.
