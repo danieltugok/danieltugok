@@ -1,6 +1,5 @@
-### Hi there 👋
+## My name is Daniel Kogut, and I'm from Brazil 🇧🇷.
 ---
-My name is Daniel Kogut, and I'm from Brazil 🇧🇷.
 
 📕 Bachelor Degree in Industrial Design and a Graduate Degree in Marketing.
 
