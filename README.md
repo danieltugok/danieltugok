@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Daniel Kogut 
 
-
 ### About me
 
 - 🎉 March/86 dob
 - 🌱 12+ years of software development experience with expertise in Web development and digital technologies
-- 🏠 Rio de Janeiro, Brazil
+- 🇧🇷 Rio de Janeiro, Brazil
 - 🚀 FrontEnd Developer at Afilio
 - 📚 Industrial Design Bachelor & Marketing Graduate Degree 
 - 🔭 UX/UI Design Enthusiast
