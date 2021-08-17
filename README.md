@@ -23,6 +23,7 @@
 - Agile Methodology (Scrum/Kanban)
 - MySQL + MariaDB + MongoDB
 - AWS + Docker
+- Linux + Windows + Terminal
 - Figma + Photoshop + Illustrator
 
 ### 📫 Get in touch
