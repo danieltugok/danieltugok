@@ -21,7 +21,7 @@
 - PHP + Laravel + WordPress
 - GIT + npm
 - Agile Methodology (Scrum/Kanban)
-- MySQL + MongoDB
+- MySQL + MariaDB + MongoDB
 - AWS + Docker
 - Figma + Photoshop + Illustrator
 
