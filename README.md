@@ -4,11 +4,11 @@
 
 - 🎉 March/86 dob
 - 🌱 12+ years of software development experience with expertise in Web development and digital technologies
-- 🇧🇷 Rio de Janeiro, Brazil
-- 🚀 FrontEnd Developer at Afilio
+- 🇧🇷 From Rio de Janeiro, Brazil
+- 🚀 Software Engineer
 - 📚 Industrial Design Bachelor & Marketing Graduate Degree 
 - 🔭 UX/UI Design Enthusiast
-- 🇨🇦 Business English | lived in Canada.
+- 🇨🇦 Business English | lived in Vancouver, Canada and Texas, US.
 - 🗣 Work in multidisciplinary teams and strong communication skills
 - 💙 Clean Code Lover
 - 🔫 Self Taught
@@ -20,9 +20,10 @@
 - Vanilla Javascript + VueJS + JQuery + AJAX + JSON
 - PHP + Laravel + WordPress
 - GIT + npm
-- Agile Methodology (Scrum/Kanban)
-- MySQL + MariaDB + MongoDB
+- RestAPI
+- MySQL + MariaDB + SqLite + PostgreSQL + MongoDB
 - AWS + Docker
+- Agile Methodology (Scrum/Kanban)
 - Linux + Windows + Terminal
 - Figma + Photoshop + Illustrator
 
