@@ -19,6 +19,7 @@
 - HTML5 + CSS3 + SASS
 - Vanilla Javascript + VueJS + JQuery + AJAX + JSON
 - PHP + Laravel + WordPress
+- NodeJS
 - GIT + npm
 - RestAPI
 - MySQL + MariaDB + SqLite + PostgreSQL + MongoDB
