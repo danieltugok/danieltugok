@@ -17,15 +17,15 @@
 ### 💻 Main Stack
 
 - HTML5 + CSS3 + SASS
-- Vanilla Javascript + VueJS + JQuery + AJAX + JSON
+- Vanilla Javascript + TypeScript + VueJS + React + JQuery 
 - PHP + Laravel + WordPress
 - NodeJS
-- GIT + npm
+- GIT + npm/yarn
 - RestAPI
-- MySQL + MariaDB + SqLite + PostgreSQL + MongoDB
+- MySQL + MariaDB + SqLite + PostgreSQL
 - AWS + Docker
 - Agile Methodology (Scrum/Kanban)
-- Linux + Windows + Terminal
+- Linux/Windows/Mac - Shell
 - Figma + Photoshop + Illustrator
 
 ### 📫 Get in touch
