@@ -1,31 +1,31 @@
 # 👋 Hi, I'm Daniel Kogut 
 
-### About me
+### 🗣 About me
 
-- 🎉 March/86 dob
-- 🌱 12+ years of software development experience with expertise in Web development and digital technologies
-- 🇧🇷 From Rio de Janeiro, Brazil
-- 🚀 Software Engineer
-- 📚 Industrial Design Bachelor & Marketing Graduate Degree 
-- 🔭 UX/UI Design Enthusiast
-- 🇨🇦 Business English | lived in Vancouver, Canada and Texas, US.
-- 🗣 Work in multidisciplinary teams and strong communication skills
-- 💙 Clean Code Lover
-- 🔫 Self Taught
+ 🎉 March/86 dob
+ 🌱 12+ years of software development experience
+ 🇧🇷 From Rio de Janeiro, Brazil
+ 🚀 Software Engineer
+ 📚 Industrial Design Bachelor & Marketing Graduate Degree 
+ 🔭 UX/UI Design Enthusiast
+ 🇨🇦 Business English | in Vancouver, Canada 
+ 🇺🇸 Linving in Texas, US
+ 🗣 Work in multidisciplinary teams and strong communication skills
+ 💙 Clean Code Lover
+ 🔫 Self Taught
 
 
 ### 💻 Main Stack
 
 - HTML5 + CSS3 + SASS
-- Vanilla Javascript + TypeScript + VueJS + React + JQuery 
+- Javascript + TypeScript + VueJS + React + JQuery + NodeJS
 - PHP + Laravel + WordPress
-- NodeJS
-- GIT + npm/yarn
-- RestAPI
-- MySQL + MariaDB + SqLite + PostgreSQL
+- GIT + npm/yarn + Heroku + Vercel
+- RestAPI + GraphQL
+- MySQL + MariaDB + SqLite + PostgreSQL + MongoDB
 - AWS + Docker
 - Agile Methodology (Scrum/Kanban)
-- Linux/Windows/Mac - Shell
+- Linux + Windows + Mac - Shell
 - Figma + Photoshop + Illustrator
 
 ### 📫 Get in touch
