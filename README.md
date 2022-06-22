@@ -2,19 +2,17 @@
 
 ### 🗣 About me
 
- 🎉 March/86 dob
-
- 🌱 12+ years of software development experience
-
- 🇧🇷 From Rio de Janeiro, Brazil
- 🚀 Software Engineer
- 📚 Industrial Design Bachelor & Marketing Graduate Degree 
- 🔭 UX/UI Design Enthusiast
- 🇨🇦 Business English | in Vancouver, Canada 
- 🇺🇸 Linving in Texas, US
- 🗣 Work in multidisciplinary teams and strong communication skills
- 💙 Clean Code Lover
- 🔫 Self Taught
+ - 🎉 March/86 dob
+ - 🌱 12+ years of software development experience
+ - 🇧🇷 From Rio de Janeiro, Brazil
+ - 🚀 Software Engineer
+ - 📚 Industrial Design Bachelor & Marketing Graduate Degree 
+ - 🔭 UX/UI Design Enthusiast
+ - 🇨🇦 Business English | in Vancouver, Canada 
+ - 🇺🇸 Linving in Texas, US
+ - 🗣 Work in multidisciplinary teams and strong communication skills
+ - 💙 Clean Code Lover
+ - 🔫 Self Taught
 
 
 ### 💻 Main Stack
