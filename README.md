@@ -3,7 +3,9 @@
 ### 🗣 About me
 
  🎉 March/86 dob
+
  🌱 12+ years of software development experience
+
  🇧🇷 From Rio de Janeiro, Brazil
  🚀 Software Engineer
  📚 Industrial Design Bachelor & Marketing Graduate Degree 
