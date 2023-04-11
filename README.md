@@ -4,13 +4,13 @@
 
  - 🎉 March/86 dob
  - 🌱 12+ years of software development experience
- - 🇧🇷 From Rio de Janeiro, Brazil
+ - 🇧🇷  From Rio de Janeiro, Brazil
+ - 🇨🇦  Business English in Vancouver, Canada 
+ - 🏡 Living in Texas, US
  - 🚀 Software Engineer
  - 📚 Industrial Design Bachelor & Marketing Graduate Degree 
  - 🔭 UX/UI Design Enthusiast
- - 🇨🇦 Business English | in Vancouver, Canada 
- - 🇺🇸 Linving in Texas, US
- - 🗣 Work in multidisciplinary teams and strong communication skills
+ - 🗣  Work in multidisciplinary teams and strong communication skills
  - 💙 Clean Code Lover
  - 🔫 Self Taught
 
@@ -18,8 +18,8 @@
 ### 💻 Main Stack
 
 - HTML5 + CSS3 + SASS
-- Javascript + TypeScript + VueJS + React + JQuery + NodeJS
-- PHP + Laravel + WordPress
+- Javascript + TypeScript: Vanilla / VueJS / React / JQuery / NodeJS / NestJS / Prisma
+- PHP: Laravel + WordPress
 - GIT + npm/yarn + Heroku + Vercel
 - RestAPI + GraphQL
 - MySQL + MariaDB + SqLite + PostgreSQL + MongoDB
